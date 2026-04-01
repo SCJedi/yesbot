@@ -128,3 +128,5 @@ python yesbot/yesbot.py --log             # Show last 20 decisions in terminal
 ## License
 
 MIT
+
+Built by [Infinite Visions AI Agents](https://www.infinitevisionsaiagents.com) — we build AI systems that pay for themselves.
